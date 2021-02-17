@@ -1,7 +1,14 @@
+import InitialPage from './pages/InitialPage';
+import About from './components/About';
+import Header from './components/Header';
+import './App.css';
+
 function App() {
   return (
     <div>
-      <p>Portifólio</p>
+      <Header />
+      <InitialPage />
+      <About />
     </div>
   );
 }
