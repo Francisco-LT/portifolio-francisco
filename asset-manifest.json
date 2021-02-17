@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portifolio-francisco/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/portifolio-francisco/static/js/main.173b8ccd.chunk.js",
-    "main.js.map": "/portifolio-francisco/static/js/main.173b8ccd.chunk.js.map",
-    "runtime-main.js": "/portifolio-francisco/static/js/runtime-main.97cf9e04.js",
-    "runtime-main.js.map": "/portifolio-francisco/static/js/runtime-main.97cf9e04.js.map",
-    "static/js/2.9905fbb9.chunk.js": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js",
-    "static/js/2.9905fbb9.chunk.js.map": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js.map",
-    "static/js/3.ea670202.chunk.js": "/portifolio-francisco/static/js/3.ea670202.chunk.js",
-    "static/js/3.ea670202.chunk.js.map": "/portifolio-francisco/static/js/3.ea670202.chunk.js.map",
+    "main.css": "/portifolio-francisco/static/css/main.2250fb4f.chunk.css",
+    "main.js": "/portifolio-francisco/static/js/main.04e8da95.chunk.js",
+    "main.js.map": "/portifolio-francisco/static/js/main.04e8da95.chunk.js.map",
+    "runtime-main.js": "/portifolio-francisco/static/js/runtime-main.44d350d3.js",
+    "runtime-main.js.map": "/portifolio-francisco/static/js/runtime-main.44d350d3.js.map",
+    "static/js/2.4665acce.chunk.js": "/portifolio-francisco/static/js/2.4665acce.chunk.js",
+    "static/js/2.4665acce.chunk.js.map": "/portifolio-francisco/static/js/2.4665acce.chunk.js.map",
+    "static/js/3.c8dba506.chunk.js": "/portifolio-francisco/static/js/3.c8dba506.chunk.js",
+    "static/js/3.c8dba506.chunk.js.map": "/portifolio-francisco/static/js/3.c8dba506.chunk.js.map",
     "index.html": "/portifolio-francisco/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/portifolio-francisco/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.9905fbb9.chunk.js.LICENSE.txt": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js.LICENSE.txt"
+    "static/css/main.2250fb4f.chunk.css.map": "/portifolio-francisco/static/css/main.2250fb4f.chunk.css.map",
+    "static/js/2.4665acce.chunk.js.LICENSE.txt": "/portifolio-francisco/static/js/2.4665acce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97cf9e04.js",
-    "static/js/2.9905fbb9.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.173b8ccd.chunk.js"
+    "static/js/runtime-main.44d350d3.js",
+    "static/js/2.4665acce.chunk.js",
+    "static/css/main.2250fb4f.chunk.css",
+    "static/js/main.04e8da95.chunk.js"
   ]
 }
