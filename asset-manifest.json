@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/portifolio-francisco/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/portifolio-francisco/static/js/main.5636bbd0.chunk.js",
-    "main.js.map": "/portifolio-francisco/static/js/main.5636bbd0.chunk.js.map",
-    "runtime-main.js": "/portifolio-francisco/static/js/runtime-main.54faa5d6.js",
-    "runtime-main.js.map": "/portifolio-francisco/static/js/runtime-main.54faa5d6.js.map",
-    "static/js/2.b6c074cb.chunk.js": "/portifolio-francisco/static/js/2.b6c074cb.chunk.js",
-    "static/js/2.b6c074cb.chunk.js.map": "/portifolio-francisco/static/js/2.b6c074cb.chunk.js.map",
-    "static/js/3.9f3ce116.chunk.js": "/portifolio-francisco/static/js/3.9f3ce116.chunk.js",
-    "static/js/3.9f3ce116.chunk.js.map": "/portifolio-francisco/static/js/3.9f3ce116.chunk.js.map",
+    "main.css": "/portifolio-francisco/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/portifolio-francisco/static/js/main.173b8ccd.chunk.js",
+    "main.js.map": "/portifolio-francisco/static/js/main.173b8ccd.chunk.js.map",
+    "runtime-main.js": "/portifolio-francisco/static/js/runtime-main.97cf9e04.js",
+    "runtime-main.js.map": "/portifolio-francisco/static/js/runtime-main.97cf9e04.js.map",
+    "static/js/2.9905fbb9.chunk.js": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js",
+    "static/js/2.9905fbb9.chunk.js.map": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js.map",
+    "static/js/3.ea670202.chunk.js": "/portifolio-francisco/static/js/3.ea670202.chunk.js",
+    "static/js/3.ea670202.chunk.js.map": "/portifolio-francisco/static/js/3.ea670202.chunk.js.map",
     "index.html": "/portifolio-francisco/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/portifolio-francisco/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b6c074cb.chunk.js.LICENSE.txt": "/portifolio-francisco/static/js/2.b6c074cb.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/portifolio-francisco/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/portifolio-francisco/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.9905fbb9.chunk.js.LICENSE.txt": "/portifolio-francisco/static/js/2.9905fbb9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54faa5d6.js",
-    "static/js/2.b6c074cb.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5636bbd0.chunk.js"
+    "static/js/runtime-main.97cf9e04.js",
+    "static/js/2.9905fbb9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.173b8ccd.chunk.js"
   ]
 }
