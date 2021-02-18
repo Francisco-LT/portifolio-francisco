@@ -1,14 +1,17 @@
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import InitialPage from './pages/InitialPage';
 import About from './components/About';
-import Header from './components/Header';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Header />
-      <InitialPage />
-      <About />
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <Switch>
+          <Route exact path="/" component={ InitialPage } />
+          <Route exact path="/about" component={ About } />
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }

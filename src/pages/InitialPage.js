@@ -1,10 +1,13 @@
 import { Component } from 'react';
+import Header from '../components/Header';
+import HelloText from '../components/HelloText';
 
 class InitialPage extends Component {
   render() {
     return (
       <div>
-        <h2>Página Inicial</h2>
+        <Header />
+        <HelloText />
       </div>
     )
   }
