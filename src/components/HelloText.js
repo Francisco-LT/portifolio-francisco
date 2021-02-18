@@ -1,21 +1,19 @@
 import { Component } from 'react';
-import {Carousel} from 'react-bootstrap';
+import ControlledCarousel from '../components/carousel'
+// import {Carousel} from 'react-bootstrap';
+// import imagem1 from '../images/imagem1.jpg'
+// import imagem2 from '../images/imagem2.jpg'
+// import imagem3 from '../images/imagem3.jpg'
+// import imagem4 from '../images/imagem4.jpg'
+
 
 class HelloText extends Component {
   render() {
     return (
       <div className="helloText">
         <p>Página Inicial</p>
-        <div>
-          {/* <Carousel>
-            <Carousel.Item>
-              <img 
-                className="d-block w-100"
-                src='./src/images/'
-                alt="First slide"/>
-            </Carousel.Item>
-          </Carousel> */}
-          <img src="../images/imagem1.jpg"/>
+        <div className="carouselStats">
+          <ControlledCarousel />
         </div>
       </div>
     )

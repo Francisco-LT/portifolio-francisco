@@ -6,7 +6,8 @@ class Header extends Component {
     return (
       <div className="headerMenu">
         <p className="textHeader">Francisco Lira Torres</p>
-        <Link className="about" to="/about">Sobre</Link>
+        <Link className="headerIcons" to="/about">Sobre</Link>
+        <Link className="headerIcons" to="/">Página Inicial</Link>
       </div>
     )
   }
